@@ -58,7 +58,7 @@ npm run dev
 
 ## Screenshots
 
-(Add screenshots here)
+(![Homepage](assets/homepage.png))
 
 ---
 
